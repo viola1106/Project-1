@@ -14,7 +14,4 @@
 <br>
 
 <h3>Data Visualization</h3>
-測試<br>
-![Imgur](https://imgur.com/5ljzapx)
-
-<img src="https://imgur.com/5ljzapx" width="200" height="200" alt="微信小程序"/><br/>
+<img src="https://imgur.com/5ljzapx.jpg" width="200" height="200" /><br/>
