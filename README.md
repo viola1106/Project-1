@@ -7,13 +7,18 @@
 <ul>
 <li> 政府開放資料平台(https://data.gov.tw/)
   <br>
-  <p>包含 : 住宅竊盜、汽車竊盜、自行車竊盜、機車竊盜、搶奪、強盜等六種案類犯罪。</p></li>
+  <p>包含 : 住宅竊盜、汽車竊盜、自行車竊盜、機車竊盜、街頭隨機搶奪、街頭隨機強盜...等六種案類犯罪。<br>
+     但因為街頭隨機搶奪、街頭隨機強盜，發生地點不固定，且基於各資保護，其提供的資訊略少，所以不列入本次分析範圍。<br>
+     採納的犯罪類型為 : 住宅竊盜、汽車竊盜、自行車竊盜、機車竊盜 等4種類型。
+  </p></li>
 <li>臺北市統計資料庫查詢系統(https://statdb.dbas.gov.taipei/pxweb2007-tp/dialog/statfile9.asp)<br>
   <p>包含 : 警力配置統計資料 –108~110年、家庭設備(汽、機車)的普及率–108~109年</p></li>
 </ul>
 <br>
 
 <h3>Data Visualization</h3>
+ 台北市各區4種案件發生次數
 <ol>
->>> <img src="https://imgur.com/5ljzapx.jpg" width="600" height="400" /><br/>
+<img src="https://imgur.com/IikL8By.jpg" width="600" height="400" /><br/>
+  台北市各區4種案件發生次數
 </ol>
