@@ -14,4 +14,6 @@
 <br>
 
 <h3>Data Visualization</h3>
-<img src="https://imgur.com/5ljzapx.jpg" width="200" height="200" /><br/>
+<ol>
+>>> <img src="https://imgur.com/5ljzapx.jpg" width="600" height="400" /><br/>
+</ol>
