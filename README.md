@@ -17,4 +17,4 @@
 測試<br>
 ![Imgur](https://imgur.com/5ljzapx)
 
-<img src="https://github.com/倉庫名/項目名/blob/master/m/20200424230237910.jpg" width="200" height="200" alt="微信小程序"/><br/>
+<img src="https://imgur.com/5ljzapx" width="200" height="200" alt="微信小程序"/><br/>
