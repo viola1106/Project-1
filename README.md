@@ -61,7 +61,6 @@ Tableau可以線上操作，點選想看的竊案類型及行政區，對比一�
 
 另外，可以參考下圖圖七發現竊案多發生在1、7、8月，正好是學生們放寒暑假的時候。有學生犯案的疑慮。因個資問題並未取得犯罪者年齡分布，但竊案犯罪年齡層介於學生之間的可能性偏高。
 ![竊案月份統計](https://user-images.githubusercontent.com/81075616/173489737-d84fbf2a-ed00-4a30-b4b8-b07aac00045c.png "竊案月份統計")     
-<img src="https://user-images.githubusercontent.com/81075616/173489737-d84fbf2a-ed00-4a30-b4b8-b07aac00045c.png" width=width="200" height="200" alt="竊案月份統計"/>   
 (圖七:竊案月份統計)     
 
 ### 結論與價值
